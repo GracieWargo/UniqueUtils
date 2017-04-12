@@ -1,18 +1,34 @@
+----------------------------------------------------
+ _   _       _                    _   _ _   _ _     
+| | | |     (_)                  | | | | | (_) |    
+| | | |_ __  _  __ _ _   _  ___  | | | | |_ _| |___ 
+| | | | '_ \| |/ _` | | | |/ _ \ | | | | __| | / __|
+| |_| | | | | | (_| | |_| |  __/ | |_| | |_| | \__ \
+ \___/|_| |_|_|\__, |\__,_|\___|  \___/ \__|_|_|___/
+                  | |                               
+                  |_|                              
+----------------------------------------------------
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+<snippet>
+  <content><![CDATA[
+# ${1:Project Name}
+TODO: Write a project description
+## Installation
+TODO: Describe the installation process
+## Usage
+TODO: Write usage instructions
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+## History
+TODO: Write history
+## Credits
+TODO: Write credits
+## License
+TODO: Write license
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>

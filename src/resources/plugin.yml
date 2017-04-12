@@ -1,0 +1,6 @@
+name: UniqueUtils
+main: me.dsate1.UniqueUtils.Main.UniqueUtils;
+version: 1.0
+author: [dsate1]
+description: Custom plugin
+softdepend: [Aero]

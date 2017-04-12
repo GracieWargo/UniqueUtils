@@ -1,34 +1,10 @@
-----------------------------------------------------
- _   _       _                    _   _ _   _ _     
-| | | |     (_)                  | | | | | (_) |    
-| | | |_ __  _  __ _ _   _  ___  | | | | |_ _| |___ 
-| | | | '_ \| |/ _` | | | |/ _ \ | | | | __| | / __|
-| |_| | | | | | (_| | |_| |  __/ | |_| | |_| | \__ \
- \___/|_| |_|_|\__, |\__,_|\___|  \___/ \__|_|_|___/
-                  | |                               
-                  |_|                              
-----------------------------------------------------
+# Unique Utils
+---
 
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
-TODO: Write a project description
-## Installation
-TODO: Describe the installation process
-## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
-## License
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+UniqueUtils is a Bukkit server plugin designed primarily to support an upcoming custom server which will be realeased soon.
+However, you're more than welcome to adapt the source for your own server.
+
+This plugin was originally code by GracieWargo (dsate1), with Moatsy (YoEpicGod). The plugin will go under heavy developement to to assure the best possible plugin. It will consit of over 80 custom coded commands and a large variety of distinguishable features not included in any other plugin. The plugin started of small but then turned into a huge hit. 
+
+## Download
+You may download offical binaries from the [releases page](https://github.com/GracieWargo/UniqueUtils/releases).

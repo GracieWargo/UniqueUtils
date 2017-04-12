@@ -1,6 +1,4 @@
 # Unique Utils
----
-
 UniqueUtils is a Bukkit server plugin designed primarily to support an upcoming custom server which will be realeased soon.
 However, you're more than welcome to adapt the source for your own server.
 
